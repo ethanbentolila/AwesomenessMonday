@@ -1,7 +1,7 @@
 ﻿//Written By: Ethan Bentolila
 //Date: January 11th 2021
 // Application to tell someone they are awesome
-
+//adding a random comment
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
